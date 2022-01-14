@@ -1,0 +1,6 @@
+{
+	"credit": "Made with Kate && VSCodium",
+	"item": "Zombies blow dart",
+	"model_ver":"1",
+    "parent":"item/guns/blow_dart"
+}

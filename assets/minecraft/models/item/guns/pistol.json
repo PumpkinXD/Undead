@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Kate && VSCodium",
+	"item": "Zombies Pistol",
+	"model_ver":"1",
+    "parent":"item/guns/gun_model/qsz92g_9",
+    "display": {
+        "thirdperson":{
+            "rotation":[-1,-90,88],
+            "translation":[-0.2,2,-1.6],
+            "scale":[0.5,0.5,0.5]
+        },
+        "firstperson": {
+            "rotation": [-5,30,0],
+            "translation": [4,2.5,-1],
+            "scale":[1.5,1.5,1.5]
+        },
+        "ground": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [2, 2, 2]
+		},
+        "fixed": {
+			"rotation": [0, -180, 0]
+		},
+        "gui": {
+            "rotation": [30,-45,45],
+            "translation":[2.1,2.5,-0.2],
+            "scale":[1.375,1.375,1.375]
+        }
+    }
+}

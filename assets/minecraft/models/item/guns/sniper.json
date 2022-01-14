@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Kate && VSCodium",
+	"item": "Zombies sniper",
+	"model_ver":"1",
+    "parent":"item/guns/gun_model/grizzly",
+    "display": {
+		"thirdperson": {
+			"rotation": [45, 0, 180],
+			"translation": [0.25, -0.5, -6],
+			"scale": [1, 1, 1]
+		},
+		"firstperson": {
+			"rotation": [2, -50, 0],
+            "translation": [ 5, 7.5, -2.5],
+			"scale": [2.25, 2.25, 2.25]
+		},
+		"ground": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [0,0,0]
+		},
+		"gui": {
+            "rotation": [45, -135, 0],
+			"translation": [0.75, 6, -4.5],
+            "scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

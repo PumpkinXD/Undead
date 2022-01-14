@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Kate && VSCodium",
+	"item": "Zombies gold digger",
+	"model_ver":"1",
+    "parent":"item/guns/gun_model/teklowvka",
+    "display": {
+		"thirdperson": {
+			"rotation": [90, 0, 180],
+			"translation": [0, 2, -2.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson": {
+			"rotation": [0, -55, 0],
+            "translation": [ -4, 7, -0.5],
+			"scale": [1, 1, 1]
+		},
+		"ground": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+            "rotation": [45, -135, 0],
+			"translation": [0.75, 4, -4],
+            "scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

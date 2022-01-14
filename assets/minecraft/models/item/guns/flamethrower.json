@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Kate && VSCodium",
+	"item": "Zombies Flamethrower",
+	"model_ver":"1",
+    "parent":"item/guns/gun_model/flamethrower",
+    "display": {
+        "thirdperson": {
+            "rotation": [ 180, 90, -45 ],
+            "translation": [ 0, -0.75, -6.5 ],
+            "scale": [ 2, 2, 2 ]
+        },
+        "head": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ -3, -16, -3.8 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, 40, 0 ],
+            "translation": [ -10, 15, -1],
+            "scale": [ 3, 3, 3 ]
+        },
+        "ground": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0, 0, 0]
+		},
+        "fixed": {
+			"rotation": [0, -180, 0]
+		},
+		"gui": {
+            "rotation": [20, -90, 10],
+			"translation": [-5, 4, 0],
+            "scale": [3, 3, 3]
+		}
+    }
+}

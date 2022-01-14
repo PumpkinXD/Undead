@@ -1,0 +1,16 @@
+Original Weapon models:
+    Unturned
+    Unturned Workshop
+Non-Weapon Textures:
+    Minecraft Java Editon(1.18.1)
+    Minecraft Dungeons
+    Hypixel's Blocking Dead Resourcepack(1.8)
+Used Softwares:
+    AssetStudio
+    Blender
+    MagicaVoxel
+    Blockbench
+    GIMP
+    VSCodium
+    Kate
+    PeaZip

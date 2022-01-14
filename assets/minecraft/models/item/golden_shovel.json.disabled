@@ -1,0 +1,6 @@
+{
+	"credit": "Made with Kate && VSCodium",
+	"item": "Zombies rainbow rifle",
+	"model_ver":"1",
+    "parent":"item/guns/rainbow_rifle"
+}
