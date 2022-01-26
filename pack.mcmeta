@@ -1,11 +1,11 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "a hypixel zombies resourcepack v0.1-beta.3 -> Requires OptiFine!"
+    "description": "a hypixel zombies resourcepack v0.1-beta.4 -> Requires OptiFine!"
   },
   "meta": {
     "pack_type": 1,
-    "pack_version": "0.1-beta.3",
+    "pack_version": "0.1-beta.4",
     "game_version": "1.8.9",
     "description": "Imported from Unturned and it's workshop, assembed by Forever_Pumpkin",
     "consists": "3D Weapons Pack for the Zombies Gamemode on Hypixel" 
